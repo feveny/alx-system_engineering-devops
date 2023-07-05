@@ -1,2 +1,4 @@
 #!/bin/bash
-ls -lnl ls -ln ls -lan
+ls -lnl 
+ls -ln 
+ls -lan
